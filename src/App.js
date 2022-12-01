@@ -1,10 +1,10 @@
-import Home from "./pages/Home";
+import DraftValue from "./components/DraftValue";
 import './styles/App.scss'
 
 function App() {
   return (
     <div className="App">
-      <Home/>
+      <DraftValue/>
     </div>
   );
 }
